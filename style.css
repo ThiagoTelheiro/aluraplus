@@ -28,7 +28,6 @@ body {
 
     display: grid;
     grid-template-columns: 50% 50%;
-    
 }
 
 .principal {
@@ -39,7 +38,6 @@ body {
 }
 
 .container__caixa {
-    text-align: center;
     margin: 0 6em;
 }
 
