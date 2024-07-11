@@ -17,7 +17,7 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    font-family: var(--font-inter); 
+    font-family: var(--font-inter);
     font-size: 16px;
     font-weight: 400;
     color: var(--branco-principal);
@@ -34,7 +34,7 @@ body {
     background-image: url(img/Background.png);
     background-size: contain;
     background-repeat: no-repeat;
-    align-items: center;    
+    align-items: center;
 }
 
 .container__caixa {
@@ -46,7 +46,7 @@ body {
     font-weight: 700;
 }
 
-.container__imagem{
+.container__imagem {
     margin: 1em 0 2em 0;
 }
 
@@ -138,7 +138,7 @@ body {
 .rodape__logo {
     display: flex;
     justify-content: center;
-    margin: 135px 0  40px 0 ;
+    margin: 135px 0 40px 0;
 }
 
 .rodape__lista {
@@ -147,7 +147,7 @@ body {
     gap: 16px;
 }
 
-.lista__link a{
+.lista__link a {
     font-size: 16px;
     color: var(--branco-principal);
 }
