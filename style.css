@@ -66,3 +66,12 @@ body {
     font-size: 0.75rem;
     color: var(--cinza-secundario);
 }
+
+.secundario {
+    align-items: center;
+    margin: 0 10.06em;
+}
+
+.secundario__imagem {
+    width: 80%;
+}
