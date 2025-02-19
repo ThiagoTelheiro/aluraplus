@@ -88,10 +88,35 @@ body {
 }
 
 .container__descricao {
-    padding-right: 4.3em;
+  padding-right: 4.3em;
 }
 
 .secundario__botao {
   display: inline-block;
   margin-top: 1em;
+}
+
+.dispositivos {
+  text-align: center;
+  margin-bottom: 9.063em;
+}
+
+.dispositivos__titulo {
+  font-size: 3rem;
+  margin-bottom: 2.5em;
+  font-weight: bold;
+  color: var(--branco-principal);
+}
+
+.dispositivos__listas {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 4.25rem;
+}
+
+.lista__item {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--branco-principal);
 }
